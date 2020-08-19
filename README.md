@@ -1,2 +1,2 @@
 # BME547
-for fall 
+for fall 2020
